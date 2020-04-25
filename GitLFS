@@ -1,3 +1,8 @@
 git lfs install
 git lfs track '*.zip'
 git add .gitattributes
+
+
+git add file.zip
+git commit -m "VirtualSpace_A.zip"
+gitpush origin master
